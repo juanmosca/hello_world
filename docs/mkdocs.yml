@@ -1,0 +1,9 @@
+site_name: hello_world
+site_description: 'This is just a package that says "hello world!".'
+site_author: 'Juan Manuel'
+repo_url: https://github.com/juanmosca/hello_world
+repo_name: 'GitHub'
+pages:
+- Home: 'index.md'
+- 'Using the package': 'usage.md' 
+- 'MIT License': 'license.md'

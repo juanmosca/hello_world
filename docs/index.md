@@ -1,7 +1,5 @@
-# hello_jua
+# hello_world
 
-## subtitulo
-
-aca va el contenido del index doc
+This is a package that just says "hello world!"
 
 
